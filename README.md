@@ -27,6 +27,28 @@ From identifying treatment plans and improving patient outcomes to more affordab
     Make use of data that may be inaccurate in systematic ways
     Recognize what makes a good research question and construct a data mining workflow answer it
 
-    
+#### Fundamental of Machine Learning for Healthcare:
+[Course Code: SOM-XCHE0010](https://online.stanford.edu/courses/som-xche0011-evaluations-ai-applications-healthcare):
+Artificial intelligence (AI) in healthcare can improve patient care, enhance quality of life, and lead to better discoveries in research, and explore new solutions to diseases. This course dives into the downstream effects of AI healthcare solutions and looks at the opportunities and challenges that are present with its usage. By understanding its benefits and limitations, you can be better prepared for real-world clinical application.
+
+    Integrate AI into clinical workflows using the principles and the practical considerations learned in this course
+    Apply best practices of AI applications to promote fair and equitable healthcare solutions
+    Understand the challenges of regulation of AI applications and which components of a model can be regulated
+    Recognize what standard evaluation metrics do and do not provide
+
+####  Evaluations of AI Applications in Healthcare:
+[Course Code: SOM-XCHE0011](https://online.stanford.edu/courses/som-xche0011-evaluations-ai-applications-healthcare):
+
+
+Artificial intelligence (AI) in healthcare can improve patient care, enhance quality of life, and lead to better discoveries in research, and explore new solutions to diseases. This course dives into the downstream effects of AI healthcare solutions and looks at the opportunities and challenges that are present with its usage. By understanding its benefits and limitations, you can be better prepared for real-world clinical application.
+
+    Integrate AI into clinical workflows using the principles and the practical considerations learned in this course
+    Apply best practices of AI applications to promote fair and equitable healthcare solutions
+    Understand the challenges of regulation of AI applications and which components of a model can be regulated
+    Recognize what standard evaluation metrics do and do not provide
+
+#### AI in Healthcare Capstone:
+[Course Code: SOM-XCHE0012](https://online.stanford.edu/courses/som-xche0012-ai-healthcare-capstone):
+When a person develops respiratory symptoms and suspects COVID-19, what do they do? In situations such as that, how can the availability of data and its specific usage affect the diagnosis, treatment, and overall patient journey? In the capstone project, you will take a guided, interactive tour through the patient journey to see how different decisions can create different datasets and outcomes, and how regulatory and ethical limitations affect its process. With hands-on experience in the position of a medical data miner, you’ll see how data has the power to transform patient care
 
 
