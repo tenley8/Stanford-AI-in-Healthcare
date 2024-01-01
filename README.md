@@ -38,6 +38,7 @@ Artificial intelligence (AI) in healthcare can improve patient care, enhance qua
     Recognize what standard evaluation metrics do and do not provide
 ##### Course Certificate: [Fundamentals of AI and Machine Learning for Healthcare](https://stanford.cloud-cme.com/assets/stanford/Uploads/334690/334690_47055_3.pdf)
 
+
 ####  Evaluations of AI Applications in Healthcare:
 [Course Code: SOM-XCHE0011](https://online.stanford.edu/courses/som-xche0011-evaluations-ai-applications-healthcare):
 
@@ -49,6 +50,7 @@ Artificial intelligence (AI) in healthcare can improve patient care, enhance qua
     Understand the challenges of regulation of AI applications and which components of a model can be regulated
     Recognize what standard evaluation metrics do and do not provide
 ##### Course Certificate: [Evaluation of AI Applications in Healthcare](https://stanford.cloud-cme.com/assets/stanford/Uploads/334690/334690_47063_3.pdf)
+
 
 #### AI in Healthcare Capstone:
 [Course Code: SOM-XCHE0012](https://online.stanford.edu/courses/som-xche0012-ai-healthcare-capstone):
