@@ -47,6 +47,9 @@ Artificial intelligence (AI) in healthcare can improve patient care, enhance qua
     Apply best practices of AI applications to promote fair and equitable healthcare solutions
     Understand the challenges of regulation of AI applications and which components of a model can be regulated
     Recognize what standard evaluation metrics do and do not provide
+#### Evaluation of AI Applications in Healthcare
+
+##### Course Certificate: [Evaluation of AI Applications in Healthcare](https://stanford.cloud-cme.com/TranscriptPopUp.aspx?UserID=334690&CECreditsPkey=941085&Certificate=1)
 
 #### AI in Healthcare Capstone:
 [Course Code: SOM-XCHE0012](https://online.stanford.edu/courses/som-xche0012-ai-healthcare-capstone):
