@@ -7,5 +7,6 @@ We have organized this experience around the journey of a patient who develops s
 The data set spans EHR as well as image data and using this dataset, we will build models that enable risk-stratification decisions for our patient. We will review how the different choices you make -- such as those around feature construction, the data types to use, how the model evaluation is set up and how you handle the patient timeline -- affect the care that would be recommended by the model. 
 During this exploration, we will also discuss the regulatory as well as ethical issues that come up as we attempt to use AI to help us make better care decisions for our patient. This course will be a hands-on experience in the day of a medical data miner.
 
+##### Course Certificate: [AI in Healthcare Capstone](https://stanford.cloud-cme.com/assets/stanford/Uploads/334690/334690_39163_3.pdf)
 
 
